@@ -1,9 +1,9 @@
 # Docker Installation
 
 ## Docker Windows
-1. [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop) -- Stable Version
+1. [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 2. *Restart computer*
-3. [https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+3. [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop) -- Stable Version
 4. *Restart computer*
 5. [https](https://github.com/docker/kitematic/releases)[://github.com/docker/kitematic/releases](https://github.com/docker/kitematic/releases) (Kitematic)
 
