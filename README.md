@@ -1,7 +1,7 @@
 # Docker Installation
 
 ## Docker Windows
-1. [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+1. [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10) -- Execute steps 1-5 opening a poweshell terminal as Administrator
 2. *Restart computer*
 3. [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop) -- Stable Version
 4. *Restart computer*
